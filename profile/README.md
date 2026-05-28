@@ -32,5 +32,5 @@ We're a small, passionate team from Kerala building the easiest way to discover 
 ## 📬 Get in Touch
 
 - 🌐 Website: [cruoo.com](https://cruoo.com)
-- 📞 WhatsApp: [+91 9292248809](https://wa.me/919292248809) (9 AM – 7 PM, 7 days)
+- 📞 Call: [+91 9292248809](https://wa.me/919292248809) (9 AM – 7 PM, 7 days)
 - 📧 Email: [support@cruoo.com](mailto:support@cruoo.com)
